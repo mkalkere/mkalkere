@@ -6,7 +6,7 @@ Engineering leader who still ships code. I lead engineering teams by day and bui
 
 - **[agent-coordinator](https://github.com/mkalkere/agent-coordinator)** — a lightweight coordination server for autonomous AI coding agents: task claiming, file locks, message passing, and health monitoring over REST.
 - **[claude-statusline](https://github.com/mkalkere/claude-statusline)** — a zero-dependency, cross-platform status line for Claude Code, published to PyPI as `claude-status`.
-- A privacy-first, self-hosted AI meeting-intelligence platform — speech-to-text and speaker diarization running on local models, built for multilingual and code-switched speech.
+- **[Transiarize](https://transiarize.com)** — a privacy-first, self-hosted AI meeting-intelligence platform: speech-to-text and speaker diarization running on local models, built for multilingual and code-switched speech.
 - A systematic trading research platform focused on finding genuine, evidence-based edges for retail strategies (private — research in progress).
 
 ## Currently
